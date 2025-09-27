@@ -1,7 +1,9 @@
 # PokemonRedBattleAI
 Model to predict what move in a gen 1 battle would deal the most damage.
 
-Video of it working: TODO
+Video of it working: https://youtu.be/ZbLS6km-SwE
+
+The video includes the model making predictions and how data is gathered.
 
 main.py -> original script used to experiment with pyboy
 
